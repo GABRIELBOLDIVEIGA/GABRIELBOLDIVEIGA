@@ -1,11 +1,9 @@
 ## Olá! Eu sou Gabriel Boldi
 
-- 🌱 Estudando JavaScript
-
 <div align="center">
   <a href="https://github.com/GABRIELBOLDIVEIGA">
-  <img  width="500em" src="https://github-readme-stats.vercel.app/api?username=GABRIELBOLDIVEIGA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIELBOLDIVEIGA&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GABRIELBOLDIVEIGA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIELBOLDIVEIGA&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -16,6 +14,6 @@
   <img align="center" alt="Rafa-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-  ##
-  
-  ![Snake animation](https://github.com/GABRIELBOLDIVEIGA/GABRIELBOLDIVEIGA/blob/output/github-contribution-grid-snake.svg)
+##
+
+![Snake animation](https://github.com/GABRIELBOLDIVEIGA/GABRIELBOLDIVEIGA/blob/output/github-contribution-grid-snake.svg)
