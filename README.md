@@ -18,4 +18,4 @@
 
   ##
   
-  
+  ![Snake animation](https://github.com/GABRIELBOLDIVEIGA/GABRIELBOLDIVEIGA/blob/output/github-contribution-grid-snake.svg)
