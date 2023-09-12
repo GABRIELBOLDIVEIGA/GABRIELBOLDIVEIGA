@@ -16,4 +16,4 @@
 
 ##
 
-  ![snake gif](https://github.com/GABRIELBOLDIVEIGA/GABRIELBOLDIVEIGA/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/GABRIELBOLDIVEIGA/GABRIELBOLDIVEIGA/blob/output/github-contribution-grid-snake.svg)
