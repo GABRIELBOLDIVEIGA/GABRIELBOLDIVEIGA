@@ -21,3 +21,5 @@
 
 ##
 
+<img alt="snake" src="https://raw.githubusercontent.com/GABRIELBOLDIVEIGA/GABRIELBOLDIVEIGA/output/github-contribution-grid-snake.svg"/>
+
