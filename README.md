@@ -14,16 +14,26 @@
 <h2 align="center" >⚡Stats⚡</h2>
 <br>
 <div align="center" >
+  
+
+  
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gabrielboldiveiga&show_icons=true&theme=dark"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielboldiveiga&theme=react"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gabrielboldiveiga&show_icons=true"
+    srcset="[https://github-readme-stats.vercel.app/api?username=gabrielboldiveiga&show_icons=true](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielboldiveiga)"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielboldiveiga&show_icons=true" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielboldiveiga&theme=react"/>
 </picture>
+
+
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielboldiveiga&theme=react"/> 
+ 
+  
 </div>
 
