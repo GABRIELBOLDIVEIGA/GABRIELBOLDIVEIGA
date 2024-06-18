@@ -2,7 +2,7 @@
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,nestjs,typescript,javascript,mongodb,mysql,docker,vite,tailwind,html,css,nodejs,github,figma" />
+  <img src="https://skillicons.dev/icons?i=nestjs,react,typescript,prisma,mongodb,mysql,docker,vite,tailwind,html,css,nodejs,github,figma" />
 </div>
 
 <picture>
